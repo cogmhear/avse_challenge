@@ -18,7 +18,7 @@ See [here](https://challenge.cogmhear.org/#/docs?id=announcements) on how to sub
 
 ```bash
 # Clone repository
-git clone https://github.com/cogmhear/avse-challenge.git
+git clone https://github.com/cogmhear/avse_challenge.git
 cd avse-challenge
 
 # Create & activate environment with conda, see https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
