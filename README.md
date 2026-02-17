@@ -129,12 +129,9 @@ Scripts allow you to render binaural and monoaural signals. To choose which sign
 
 ## Baseline
 
-AVSEC-4 baseline coming soon (late March 2025)
+AVSEC-4 baseline:
 
-[//]: # ([code]&#40;./baseline/avse1/&#41;)
-
-[//]: # ()
-[//]: # ([pretrained_model]&#40;https://data.cstr.ed.ac.uk/cogmhear/protected/avse1_baseline.ckpt&#41;)
+[Binaural baseline](./baseline/avse4/)  
 
 The credentials to download the pretrained model are the same as the ones used to download the noise maskers and the metadata.
 
@@ -170,7 +167,7 @@ Current challenge
 
 - The 4th Audio-Visual Speech Enhancement Challenge (AVSEC-4)  
 [data_preparation](./data_preparation/avse4/)  
-[baseline](./baseline/avse4/) -TBA  
+[baseline](./baseline/avse4/)  
 [evaluation](./evaluation/avse4/)  
 
 ## License
